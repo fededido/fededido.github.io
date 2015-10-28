@@ -10,7 +10,7 @@ url: "https://fededido.github.io"
 
 # baseurl: /personal-jekyll-theme
 
-google-tracking-id: "<UA-54524183-2>"
+google-tracking-id: "UA-54524183-2"
 
 # Forces https everywhere in your website, except when you serve it locally
 
@@ -47,7 +47,7 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "Per aspera ad aspra."
+  - text: "Per aspera ad astra."
 #  - text: "Where’s your will to be weird?"
 
 ########
