@@ -68,6 +68,9 @@ reddit-share: True
 ###############
 
 events:
+  - image: "/img/career/syrus.png"
+    date: "March 2016 - Today"
+    description: "Web Developer @ Syrus Industry"
   - image: "/img/career/torvergata.png"
     date: "March 2015 - Today"
     description: "M.Sc. in Computer Engineering @ University of Rome Tor Vergata"
