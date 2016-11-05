@@ -24,7 +24,7 @@ author: "Federico Di Domenicantonio"
 lang: "en"
 title: "{ Federico Di Domenicantonio }"
 favicon: "/img/rocket-16_blue.ico"
-description: "Blog and website of Federico Di Domenicantonio, blogging mainly for tech. Opinions expressed are mine."
+description: "Personal website of Federico Di Domenicantonio."
 keywords: "Di Domenicantonio, Federico, personal, Engineering, Computer, Software"
 
 ################
@@ -54,13 +54,13 @@ lines:			# You can add HTML Tags in the Text
 # Blog #
 ########
 
-post-preview-words: 96
+# post-preview-words: 96
 
-paginate: 5
+# paginate: 5
 
-fb-share: True
-twitter-share: True
-reddit-share: True
+# fb-share: True
+# twitter-share: True
+# reddit-share: True
 # disqus-shortname: "panossakkos"
 
 ###############
@@ -70,7 +70,7 @@ reddit-share: True
 events:
   - image: "/img/career/syrus.png"
     date: "March 2016 - Today"
-    description: "Web Developer @ Syrus Industry"
+    description: "Software Engineer @ Syrus Industry"
   - image: "/img/career/torvergata.png"
     date: "March 2015 - Today"
     description: "M.Sc. in Computer Engineering @ University of Rome Tor Vergata"
@@ -92,8 +92,10 @@ email: "fededido91@hotmail.it"
 ##################
 
 social:
+  - title: "twitter"
+    url: "https://twitter.com/fededido"
   - title: "linkedin"
-    url: "https://www.linkedin.com/pub/federico-di-domenicantonio/37/447/393"
+    url: "https://www.linkedin.com/in/federico-di-domenicantonio-39344737"
   - title: "github"
     url: "https://github.com/fededido"
   - title: "bitbucket"
@@ -117,12 +119,12 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
+#  Blog: 'blog'
   Career: 'career'
   Contact: 'contact'
 
 # Pagination path
-paginate_path: "blog/page:num"
+# paginate_path: "blog/page:num"
 
 # Enable minification SASS
 sass:
